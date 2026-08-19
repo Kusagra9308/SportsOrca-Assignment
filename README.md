@@ -2,7 +2,6 @@
 
 A modern full-stack Reddit sentiment analysis dashboard that fetches the top **50 hot posts** from any subreddit and performs real-time sentiment scoring on post titles.
 
-![Subreddit Vibe Check](https://www.redditstatic.com/shreddit/assets/favicon/192x192.png)
 
 ## 🌟 Key Features
 
