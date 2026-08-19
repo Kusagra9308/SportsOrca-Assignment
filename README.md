@@ -1,9 +1,9 @@
-# The Subreddit Vibe Check 🔮
+# The Subreddit Vibe Check 
 
 A modern full-stack Reddit sentiment analysis dashboard that fetches the top **50 hot posts** from any subreddit and performs real-time sentiment scoring on post titles.
 
 
-## 🌟 Key Features
+##  Key Features
 
 1. **Subreddit Search & Presets**:
    - Query any subreddit (`technology`, `programming`, `sports`, `movies`, `science`, `gaming`).
