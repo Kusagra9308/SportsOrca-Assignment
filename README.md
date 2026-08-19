@@ -27,9 +27,8 @@ A modern full-stack Reddit sentiment analysis dashboard that fetches the top **5
    - Skeleton loader animations during fetch.
    - Informative error banners for invalid subreddits or network issues.
 
----
 
-## 🚀 Quick Start Instructions
+##  Quick Start Instructions
 
 ### 1. Install Dependencies
 ```bash
